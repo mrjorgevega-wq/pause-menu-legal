@@ -1,6 +1,6 @@
 # Pause Menu — Privacy Policy
 
-_Last updated: October 22, 2026_
+_Last updated: October 25, 2026_
 
 Pause Menu ("the app") is a video game backlog tracker for Android. This policy explains what information the app handles and where it goes.
 
@@ -19,11 +19,11 @@ The app stores the following **only on your device**, in its private storage:
 - Cached game information and cover images, so the app works offline
 - Whether you own Pause Menu Pro
 
-The developer has no access to this data. Uninstalling the app deletes it, unless Android backup is turned on (see below).
+The developer has no access to this data. Updating the app keeps it. Uninstalling the app deletes it, unless you saved a backup file (see below).
 
-### Android backup
+### Backup files
 
-If you turn on Android's backup, Android may back up the app's data to your Google account and restore it when you set up a new device. This is controlled by your device settings and Google's privacy policy, not by Pause Menu.
+Pause Menu doesn't back up to Google or any other cloud service; Android's automatic Google backup is turned off for this app. In Settings you can choose **Save backup** to save your library, lists, notes and appearance settings to a `.pausemenu` file in a folder you pick on your device. The app asks for your permission before it saves or opens any file, and only uses files you pick yourself. The file is scrambled so other apps can't read it, and only Pause Menu can restore it. It never includes your Pro purchase, which Google Play restores. The file stays where you saved it, even after you uninstall the app, until you delete it. If you move or share the file yourself (for example to cloud storage), that service's privacy policy applies.
 
 ## Information sent to third parties
 

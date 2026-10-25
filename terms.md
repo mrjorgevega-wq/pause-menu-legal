@@ -1,6 +1,6 @@
 # Pause Menu — Terms of Use
 
-_Last updated: October 18, 2026_
+_Last updated: October 25, 2026_
 
 These terms apply to the Pause Menu app for Android ("the app"), made by Somni Solus ("I", "me"). By installing or using the app, you agree to them. If you don't agree, please don't use the app.
 
@@ -17,7 +17,7 @@ You must be at least 13 years old (or the minimum age in your country) to use th
 
 ## 2. Your data
 
-Your library, notes, lists, ratings and playtime are stored only on your device. You're responsible for them, including keeping a backup (for example with Android backup). If you uninstall the app or lose your device without a backup, your data can't be recovered. See the [Privacy Policy](https://mrjorgevega-wq.github.io/pause-menu-legal/privacy) for details.
+Your library, notes, lists, ratings and playtime are stored only on your device. You're responsible for them, including keeping a backup (Settings → Backup → Save backup). If you uninstall the app or lose your device without a backup, your data can't be recovered. See the [Privacy Policy](https://mrjorgevega-wq.github.io/pause-menu-legal/privacy) for details.
 
 ## 3. Pause Menu Pro
 
