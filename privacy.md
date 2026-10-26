@@ -1,6 +1,6 @@
 # Pause Menu — Privacy Policy
 
-_Last updated: October 25, 2026_
+_Last updated: October 26, 2026_
 
 Pause Menu ("the app") is a video game backlog tracker for Android. This policy explains what information the app handles and where it goes.
 
@@ -14,7 +14,7 @@ Pause Menu ("the app") is a video game backlog tracker for Android. This policy 
 
 The app stores the following **only on your device**, in its private storage:
 
-- Games you add to your library and their status, rating, playtime, completion tag and abandon reason
+- Games you add to your library, the platform you play each copy on, and their status, rating, playtime, completion tag and abandon reason
 - Your notes, saved guide links, custom lists and Digital Vault store tags
 - Cached game information and cover images, so the app works offline
 - Whether you own Pause Menu Pro
@@ -23,7 +23,7 @@ The developer has no access to this data. Updating the app keeps it. Uninstallin
 
 ### Backup files
 
-Pause Menu doesn't back up to Google or any other cloud service; Android's automatic Google backup is turned off for this app. In Settings you can choose **Save backup** to save your library, lists, notes and appearance settings to a `.pausemenu` file in a folder you pick on your device. The app asks for your permission before it saves or opens any file, and only uses files you pick yourself. The file is scrambled so other apps can't read it, and only Pause Menu can restore it. It never includes your Pro purchase, which Google Play restores. The file stays where you saved it, even after you uninstall the app, until you delete it. If you move or share the file yourself (for example to cloud storage), that service's privacy policy applies.
+Pause Menu doesn't back up to Google or any other cloud service; Android's automatic Google backup is turned off for this app. In Settings you can choose **Save backup** to save your library (including each game's platform), lists, notes and appearance settings to a `.pausemenu` file in a folder you pick on your device. The app asks for your permission before it saves or opens any file, and only uses files you pick yourself. The file is scrambled so other apps can't read it, and only Pause Menu can restore it. It never includes your Pro purchase, which Google Play restores. The file stays where you saved it, even after you uninstall the app, until you delete it. If you move or share the file yourself (for example to cloud storage), that service's privacy policy applies.
 
 ## Information sent to third parties
 

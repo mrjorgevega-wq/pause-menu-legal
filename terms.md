@@ -1,6 +1,6 @@
 # Pause Menu — Terms of Use
 
-_Last updated: October 25, 2026_
+_Last updated: October 26, 2026_
 
 These terms apply to the Pause Menu app for Android ("the app"), made by Somni Solus ("I", "me"). By installing or using the app, you agree to them. If you don't agree, please don't use the app.
 
@@ -28,7 +28,7 @@ Your library, notes, lists, ratings and playtime are stored only on your device.
 
 ## 4. Game data and third-party content
 
-Game information, cover art and time-to-beat estimates come from IGDB.com and may be missing, outdated or inaccurate. Game titles, cover art, logos and trademarks belong to their respective owners. Pause Menu is not affiliated with, endorsed by or sponsored by IGDB, Twitch, Google, YouTube or any platform holder or game publisher.
+Game information, cover art and time-to-beat estimates come from IGDB.com and may be missing, outdated or inaccurate. Game titles, cover art, logos and trademarks belong to their respective owners. Pause Menu is not affiliated with, endorsed by or sponsored by IGDB, Twitch, Google, YouTube or any platform holder, store or game publisher. Platform and store names (such as PlayStation, Xbox, Nintendo Switch, Steam, Epic Games and GOG) are used only to label where you play a game.
 
 The Walkthrough, Boss fights, Wiki and saved guide links open other apps and websites. I don't control and am not responsible for their content.
 
