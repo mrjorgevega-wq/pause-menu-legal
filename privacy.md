@@ -1,6 +1,6 @@
 # Pause Menu — Privacy Policy
 
-_Last updated: October 26, 2026_
+_Last updated: October 27, 2026_
 
 Pause Menu ("the app") is a video game backlog tracker for Android. This policy explains what information the app handles and where it goes.
 
@@ -47,7 +47,7 @@ The Report a bug form (on the About screen) doesn't send anything by itself. Whe
 
 ## Links to other apps and websites
 
-The Walkthrough, Boss fights, Wiki and saved guide links open YouTube, Google Search or other websites in their own apps. The "View on IGDB.com" and "Visit IGDB.com" buttons open the IGDB website in your browser. What happens there is governed by those services' privacy policies.
+The Walkthrough, Boss fights, Wiki, Text guide and saved guide links open YouTube, Google Search or other websites in their own apps. The "View on IGDB.com" and "Visit IGDB.com" buttons open the IGDB website in your browser. What happens there is governed by those services' privacy policies.
 
 ## Payments
 
