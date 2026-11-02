@@ -1,12 +1,12 @@
 # Pause Menu — Privacy Policy
 
-_Last updated: October 27, 2026_
+_Last updated: November 2, 2026_
 
 Pause Menu ("the app") is a video game backlog tracker for Android. This policy explains what information the app handles and where it goes.
 
 ## Summary
 
-- No account, no sign-up, no ads, no analytics, no tracking.
+- No account, no sign-up, no ads, no analytics, no tracking. The developer doesn't sell or share personal information.
 - Your library, notes, lists, ratings and playtime stay **on your device**.
 - The only things that go online are your **game searches** (sent to IGDB), **cover images** (loaded from IGDB), a **contentless sign-in request** to the app's own token service (so IGDB accepts the searches), and **Pro purchases** (handled by Google Play). If you choose to send a **bug report**, it goes by email from your own email app.
 
@@ -18,6 +18,9 @@ The app stores the following **only on your device**, in its private storage:
 - Your notes, saved guide links, custom lists and Digital Vault store tags
 - Cached game information and cover images, so the app works offline
 - Whether you own Pause Menu Pro
+- Your appearance settings (theme, card size, title position)
+
+Features such as Up next's "Pick for me" and "Quick wins" are worked out on your device from this data; nothing is sent anywhere to do it.
 
 The developer has no access to this data. Updating the app keeps it. Uninstalling the app deletes it, unless you saved a backup file (see below).
 
@@ -43,11 +46,15 @@ These services handle data under their own privacy policies:
 
 ## Bug reports
 
-The Report a bug form (on the About screen) doesn't send anything by itself. When you tap Send, it opens your own email app with a message addressed to the developer, and nothing is sent until you send that email. The message contains what you typed in the form plus your phone's manufacturer and model, Android version, screen size, language, the app's version and whether you use the light or dark theme. You can read and edit all of it before sending. The developer uses bug report emails only to fix problems and replies from the same address.
+The Report a bug form (in Settings) doesn't send anything by itself. When you tap Send, it opens your own email app with a message addressed to the developer, and nothing is sent until you send that email. The message contains what you typed in the form plus your phone's manufacturer and model, Android version, screen size, language, the app's version and whether you use the light or dark theme. You can read and edit all of it before sending. The developer uses bug report emails only to fix problems and replies from the same address.
 
 ## Links to other apps and websites
 
 The Walkthrough, Boss fights, Wiki, Text guide and saved guide links open YouTube, Google Search or other websites in their own apps. The "View on IGDB.com" and "Visit IGDB.com" buttons open the IGDB website in your browser. What happens there is governed by those services' privacy policies.
+
+## Permissions
+
+Pause Menu doesn't use your location, contacts, camera or microphone. Before it saves or opens a file, it asks you in the app and then uses Android's system file picker, so it can only reach the files you choose. If a future feature needs a device permission, the app will ask when you turn that feature on, explain why, and keep working without it if you say no. This policy will be updated before any such feature ships.
 
 ## Payments
 
@@ -55,7 +62,11 @@ Pause Menu Pro is a one-time in-app purchase processed entirely by Google Play. 
 
 ## Children
 
-Pause Menu is not directed at children under 13 and does not knowingly collect personal information from them.
+Pause Menu is not directed at children under 13 and does not knowingly collect personal information from anyone under 13. The app has no accounts, chat or social features, and it doesn't collect personal information from any user. If you believe a child under 13 has sent the developer personal information (for example in a bug report email), contact the developer and it will be deleted.
+
+## Your choices and rights
+
+Because your library is stored only on your device, you control it completely: you can edit or delete anything in the app, and uninstalling the app or clearing its storage removes all of it. The developer doesn't hold a copy, so there is nothing to access, correct or delete on your behalf. The only exception is a bug report email you chose to send; ask and it will be deleted. Depending on where you live (for example under the GDPR or California law), you may have additional rights; you can contact the developer about them at any time. The developer doesn't sell or share personal information.
 
 ## Changes
 

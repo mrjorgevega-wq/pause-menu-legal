@@ -1,6 +1,6 @@
 # Pause Menu — Terms of Use
 
-_Last updated: October 27, 2026_
+_Last updated: November 2, 2026_
 
 These terms apply to the Pause Menu app for Android ("the app"), made by Somni Solus ("I", "me"). By installing or using the app, you agree to them. If you don't agree, please don't use the app.
 
@@ -13,7 +13,7 @@ You may use the app for your own personal, non-commercial use. Please don't:
 - use it to overload, scrape or misuse the services it connects to (such as IGDB);
 - use it for anything unlawful.
 
-You must be at least 13 years old (or the minimum age in your country) to use the app.
+You must be at least 13 years old (or the minimum age in your country, if higher) to use the app. If you're under 18 (or the age of majority where you live), you may use the app only with the involvement of a parent or guardian, who should review these terms with you and approve any purchase.
 
 ## 2. Your data
 
@@ -25,12 +25,17 @@ Your library, notes, lists, ratings and playtime are stored only on your device.
 - Payment is processed by Google Play under Google Play's terms. Refunds follow Google Play's refund policy.
 - Pro is linked to the Google account you bought it with. To get it on a new device, sign in with the same account and tap **Restore purchase**.
 - Pro unlocks the features listed in the app at the time of purchase. I may improve or change features over time, but I won't take away Pro from people who bought it.
+- Prices are set in Google Play, may differ by country, and may change; occasional sale prices may be offered. A later price change or sale doesn't entitle earlier buyers to a refund of the difference, except where the law requires it.
 
 ## 4. Game data and third-party content
 
 Game information, cover art and time-to-beat estimates come from IGDB.com and may be missing, outdated or inaccurate. Game titles, cover art, logos and trademarks belong to their respective owners. Pause Menu is not affiliated with, endorsed by or sponsored by IGDB, Twitch, Google, YouTube or any platform holder, store or game publisher. Platform and store names (such as PlayStation, Xbox, Nintendo Switch, Steam, Epic Games and GOG) are used only to label where you play a game.
 
-The Walkthrough, Boss fights, Wiki, Text guide and saved guide links open other apps and websites. I don't control and am not responsible for their content.
+The Walkthrough, Boss fights, Wiki, Text guide and saved guide links open other apps and websites. I don't control and am not responsible for their content, which may not be suitable for all ages. Suggestions such as "Pick for me" and "Quick wins" are for fun and convenience only.
+
+## 4a. Accessibility
+
+I aim to make the app usable by everyone, including people who use screen readers such as TalkBack, larger text sizes or high-contrast settings. If you run into an accessibility barrier, please tell me (Settings → Report a bug, or the contact below) and I'll work to fix it.
 
 ## 5. No warranty
 
