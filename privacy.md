@@ -28,6 +28,14 @@ The developer has no access to this data. Updating the app keeps it. Uninstallin
 
 Pause Menu doesn't back up to Google or any other cloud service; Android's automatic Google backup is turned off for this app. In Settings you can choose **Save backup** to save your library (including each game's platform), lists, notes and appearance settings to a `.pausemenu` file in a folder you pick on your device. The app asks for your permission before it saves or opens any file, and only uses files you pick yourself. The file is scrambled so other apps can't read it, and only Pause Menu can restore it. It never includes your Pro purchase, which Google Play restores. The file stays where you saved it, even after you uninstall the app, until you delete it. If you move or share the file yourself (for example to cloud storage), that service's privacy policy applies.
 
+### Year in Review image
+
+On the Stats screen, **Share my year** turns your yearly recap (games finished, time played and, with Pro, your top genre and game of the year) into a picture, made on your device. Nothing is sent anywhere unless you pick an app in Android's share menu; the picture then goes only to the app and people you choose, and that app's privacy policy applies. The picture is kept in the app's private temporary storage (never in your photos or files) and is replaced the next time you share.
+
+### Home-screen widget
+
+If you add the Pro widget to your home screen, it shows the names of games in your Playing list and backlog. It reads them from the library on your device and sends nothing anywhere, but anyone who can see your home screen can see them. Remove the widget to hide them.
+
 ## Information sent to third parties
 
 | Service | What is sent | Why |
