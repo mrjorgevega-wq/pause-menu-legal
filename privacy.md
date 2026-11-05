@@ -8,7 +8,7 @@ Pause Menu ("the app") is a video game backlog tracker for Android. This policy 
 
 - No account, no sign-up, no ads, no analytics, no tracking. The developer doesn't sell or share personal information.
 - Your library, notes, lists, ratings and playtime stay **on your device**.
-- The only things that go online are your **game searches** (sent to IGDB), **cover images** (loaded from IGDB), a **contentless sign-in request** to the app's own token service (so IGDB accepts the searches), and **Pro purchases** (handled by Google Play). If you choose to send a **bug report**, it goes by email from your own email app.
+- The only things that go online are your **game searches** (sent to IGDB), **cover images** (loaded from IGDB), a **sign-in request** to the app's own token service (so IGDB accepts the searches), with a Google Play check that the app is genuine, and **Pro purchases** (handled by Google Play). If you choose to send a **bug report**, it goes by email from your own email app.
 
 ## Information stored on your device
 
@@ -41,8 +41,9 @@ If you add a Pro widget to your home screen, it shows the names of games in your
 | Service | What is sent | Why |
 |---|---|---|
 | **IGDB** (owned by Twitch, an Amazon company) | The text you type into Search, the IDs of games you view, and standard network information such as your IP address | To find games and their details, cover art and time-to-beat estimates |
-| **Pause Menu token service** (run by the developer on Cloudflare Workers) | An empty request with no personal content. Like any internet request it carries your IP address, which is used only to limit abuse and is not stored by the developer | To get the temporary access key IGDB requires, without putting the developer's IGDB secret inside the app |
+| **Pause Menu token service** (run by the developer on Cloudflare Workers) | A Google Play Integrity token (see below) and a random one-time code, with no personal content. Like any internet request it carries your IP address, which is used only to limit abuse and is not stored by the developer. The token service asks Google to check the integrity token, uses only the yes/no result, and stores nothing | To get the temporary access key IGDB requires, without putting the developer's IGDB secret inside the app |
 | **Google Play** | Purchase requests and your Google Play account, handled by Google | To process and restore the one-time Pro purchase |
+| **Google Play Integrity** | When the app needs a new access key (about every two months), Google Play checks that the app was installed from Google Play, hasn't been modified, and runs on a genuine Android device. Google collects device and app information for this check | To stop copies of the app and automated scripts from misusing the token service |
 
 Pause Menu doesn't send your library, notes, lists or any other personal content to anyone.
 
