@@ -1,6 +1,6 @@
 # Pause Menu — Privacy Policy
 
-_Last updated: November 2, 2026_
+_Last updated: November 5, 2026_
 
 Pause Menu ("the app") is a video game backlog tracker for Android. This policy explains what information the app handles and where it goes.
 
@@ -14,8 +14,8 @@ Pause Menu ("the app") is a video game backlog tracker for Android. This policy 
 
 The app stores the following **only on your device**, in its private storage:
 
-- Games you add to your library, the platform you play each copy on, and their status, rating, playtime, completion tag and abandon reason
-- Your notes, saved guide links, custom lists and Digital Vault store tags
+- Games you add to your library, the platform you play each copy on (including any platform name you type), and their status, rating, playtime, completion tag and abandon reason
+- Your notes, saved guide links, custom lists and The Vault store tags (including any store name you type)
 - Cached game information and cover images, so the app works offline
 - Whether you own Pause Menu Pro
 - Your appearance settings (theme, card size, title position)
