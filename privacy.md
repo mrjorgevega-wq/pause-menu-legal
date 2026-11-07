@@ -1,6 +1,6 @@
 # Pause Menu — Privacy Policy
 
-_Last updated: November 5, 2026_
+_Last updated: November 7, 2026_
 
 Pause Menu ("the app") is a video game backlog tracker for Android. This policy explains what information the app handles and where it goes.
 
@@ -20,7 +20,13 @@ The app stores the following **only on your device**, in its private storage:
 - Whether you own Pause Menu Pro
 - Your appearance settings (theme, card size, title position)
 
-Features such as Up next's "Pick for me" and "Quick wins" are worked out on your device from this data; nothing is sent anywhere to do it.
+Features such as Up next's "Pick for me", "Quick wins" and the Backlog Planner are worked out on your device from this data; nothing is sent anywhere to do it. The Pro play session timer stores only which game you're playing and when you started, on your device, until you stop it.
+
+### Notifications
+
+Two Pro features can show notifications: the **play session timer** (a notification with the running time and a Stop button, while a session runs) and **Release Radar** (an "Out today" notification when a game on your wishlist is released, only if you turn it on). The app asks for Android's notification permission only when you start using one of them, and both keep working inside the app if you say no. Notifications are created on your device from your own data; nothing is sent anywhere to show them. You can turn them off at any time in the app or in your phone's settings.
+
+When Release Radar alerts are on, the app checks about once a day in the background whether release dates on your wishlist have changed. That check sends only the IGDB IDs of wishlisted games that aren't out yet to IGDB, the same request the app makes when you open a game's page.
 
 The developer has no access to this data. Updating the app keeps it. Uninstalling the app deletes it, unless you saved a backup file (see below).
 
@@ -40,7 +46,7 @@ If you add a Pro widget to your home screen, it shows the names of games in your
 
 | Service | What is sent | Why |
 |---|---|---|
-| **IGDB** (owned by Twitch, an Amazon company) | The text you type into Search, the IDs of games you view, and standard network information such as your IP address | To find games and their details, cover art and time-to-beat estimates |
+| **IGDB** (owned by Twitch, an Amazon company) | The text you type into Search, the IDs of games you view or keep in your library (to update their details, release dates and, with Pro, time-to-beat estimates; with Release Radar alerts on, upcoming wishlist games are also checked about once a day in the background), and standard network information such as your IP address | To find games and their details, cover art and time-to-beat estimates |
 | **Pause Menu token service** (run by the developer on Cloudflare Workers) | A Google Play Integrity token (see below) and a random one-time code, with no personal content. Like any internet request it carries your IP address, which is used only to limit abuse and is not stored by the developer. The token service asks Google to check the integrity token, uses only the yes/no result, and stores nothing | To get the temporary access key IGDB requires, without putting the developer's IGDB secret inside the app |
 | **Google Play** | Purchase requests and your Google Play account, handled by Google | To process and restore the one-time Pro purchase |
 | **Google Play Integrity** | When the app needs a new access key (about every two months), Google Play checks that the app was installed from Google Play, hasn't been modified, and runs on a genuine Android device. Google collects device and app information for this check | To stop copies of the app and automated scripts from misusing the token service |
@@ -63,7 +69,7 @@ The Walkthrough, Boss fights, Wiki, Text guide and saved guide links open YouTub
 
 ## Permissions
 
-Pause Menu doesn't use your location, contacts, camera or microphone. Before it saves or opens a file, it asks you in the app and then uses Android's system file picker, so it can only reach the files you choose. If a future feature needs a device permission, the app will ask when you turn that feature on, explain why, and keep working without it if you say no. This policy will be updated before any such feature ships.
+Pause Menu doesn't use your location, contacts, camera or microphone. Before it saves or opens a file, it asks you in the app and then uses Android's system file picker, so it can only reach the files you choose. The only device permission it asks for is **notifications** (Android 13 and later), and only when you start a play session or turn on Release Radar alerts; saying no never stops the rest of the app from working. If a future feature needs another permission, the app will ask when you turn that feature on, explain why, and keep working without it if you say no. This policy will be updated before any such feature ships.
 
 ## Payments
 
